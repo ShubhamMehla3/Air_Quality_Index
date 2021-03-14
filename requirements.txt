@@ -6,8 +6,6 @@ plotly==4.14.3
 prometheus_client==0.9.0
 scikit-learn==0.23.2
 sktime==0.5.3
-sqlite==3.34.0
 statsmodels==0.12.2
 streamlit==0.78.0
-tqdm==4.58.0
 seaborn==0.11.0
