@@ -1,10 +1,10 @@
 fbprophet==0.7.1
+scipy==1.6.0
 numpy==1.20.1
 pandas==1.1.5
 plotly==4.14.3
 prometheus_client==0.9.0
 scikit-learn==0.23.2
-scipy==1.6.0
 sktime==0.5.3
 sqlite==3.34.0
 statsmodels==0.12.2
